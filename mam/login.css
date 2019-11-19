@@ -1,0 +1,13 @@
+.input_usr h2{
+    text-align: center;
+    color: #fff;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+.input_usr{
+	height:35rem;
+}
+.input_usr p{
+	font-size:2rem;
+	color:#fff;
+}
